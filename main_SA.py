@@ -1,6 +1,6 @@
 from Alg import SA_1_Round
 from ENV_stand import SA_MS_ENV
-from Stand_1d_motion import newStand6_Template, newStand8_1_Template, newStand8_2_Template
+from Stand_motion import newStand6_Template, newStand8_1_Template, newStand8_2_Template
 from stand_action_bound import  *
 
 
